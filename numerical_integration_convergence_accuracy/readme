@@ -1,1 +1,2 @@
-here we use Gauss-Legendre quadrature, singularity removal methods and Richardson Extrapolation
+here we use Gauss-Legendre quadrature, singularity removal methods, composite integration rules, Romberg integration and Richardson Extrapolation
+
