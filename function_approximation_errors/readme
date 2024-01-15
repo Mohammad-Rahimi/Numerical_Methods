@@ -1,0 +1,1 @@
+here we implement cubic spline with a not-a-knot condition from scratch and asses built-in humps, Taylor, Rational function and least square approximation
